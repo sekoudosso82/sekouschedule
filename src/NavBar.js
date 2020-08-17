@@ -16,7 +16,7 @@ function NavBar(props){
             </Link>
           
             <Link to="/complete">
-                <div className="navCLass " >Complete Tasks</div>
+                <div className="navCLass " >Completed Tasks</div>
             </Link>
                 
                 <div className="navCLass"> 
