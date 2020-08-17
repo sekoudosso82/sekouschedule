@@ -1,0 +1,52 @@
+/* .new-todo-div {
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px grey;
+    min-width: 100%;
+} */
+
+.new-todo-form {
+    margin-top: 10%;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 8px grey;
+    width: 99%;
+}
+
+.new-todo-input {
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    border-radius: 8px;
+    width: 50%;
+    outline: none;
+}
+.new-todo-date-input {
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    border-radius: 8px;
+    width: 25%;
+    outline: none;
+}
+
+.new-todo-button {
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+    margin-left: 8px;
+    width: 18%;
+    background-color: #22ee22;
+}
+
+.completed-button {
+    display: inline-block;
+    background-color: #22ee22;
+}
