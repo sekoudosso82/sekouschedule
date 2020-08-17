@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sekoucalendar/static/css/main.fcafecfd.chunk.css",
-    "main.js": "/sekoucalendar/static/js/main.4ef5197a.chunk.js",
-    "main.js.map": "/sekoucalendar/static/js/main.4ef5197a.chunk.js.map",
-    "runtime-main.js": "/sekoucalendar/static/js/runtime-main.a614b50a.js",
-    "runtime-main.js.map": "/sekoucalendar/static/js/runtime-main.a614b50a.js.map",
-    "static/js/2.b6c76786.chunk.js": "/sekoucalendar/static/js/2.b6c76786.chunk.js",
-    "static/js/2.b6c76786.chunk.js.map": "/sekoucalendar/static/js/2.b6c76786.chunk.js.map",
-    "index.html": "/sekoucalendar/index.html",
-    "precache-manifest.8384a9a0dd673f23f8f008076568dc09.js": "/sekoucalendar/precache-manifest.8384a9a0dd673f23f8f008076568dc09.js",
-    "service-worker.js": "/sekoucalendar/service-worker.js",
-    "static/css/main.fcafecfd.chunk.css.map": "/sekoucalendar/static/css/main.fcafecfd.chunk.css.map",
-    "static/js/2.b6c76786.chunk.js.LICENSE.txt": "/sekoucalendar/static/js/2.b6c76786.chunk.js.LICENSE.txt"
+    "main.css": "/sekouschedule/static/css/main.fcafecfd.chunk.css",
+    "main.js": "/sekouschedule/static/js/main.4ef5197a.chunk.js",
+    "main.js.map": "/sekouschedule/static/js/main.4ef5197a.chunk.js.map",
+    "runtime-main.js": "/sekouschedule/static/js/runtime-main.d5a3c6d7.js",
+    "runtime-main.js.map": "/sekouschedule/static/js/runtime-main.d5a3c6d7.js.map",
+    "static/js/2.b6c76786.chunk.js": "/sekouschedule/static/js/2.b6c76786.chunk.js",
+    "static/js/2.b6c76786.chunk.js.map": "/sekouschedule/static/js/2.b6c76786.chunk.js.map",
+    "index.html": "/sekouschedule/index.html",
+    "precache-manifest.34d4c19d22b60b782dbbb4801d05155b.js": "/sekouschedule/precache-manifest.34d4c19d22b60b782dbbb4801d05155b.js",
+    "service-worker.js": "/sekouschedule/service-worker.js",
+    "static/css/main.fcafecfd.chunk.css.map": "/sekouschedule/static/css/main.fcafecfd.chunk.css.map",
+    "static/js/2.b6c76786.chunk.js.LICENSE.txt": "/sekouschedule/static/js/2.b6c76786.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a614b50a.js",
+    "static/js/runtime-main.d5a3c6d7.js",
     "static/js/2.b6c76786.chunk.js",
     "static/css/main.fcafecfd.chunk.css",
     "static/js/main.4ef5197a.chunk.js"
