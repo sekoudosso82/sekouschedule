@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd1cd9775b2c7df7e0d047170f9e06f8",
+    "revision": "7b38138780cd160b05fc59b11d6a38d9",
     "url": "/sekouschedule/index.html"
   },
   {
-    "revision": "140a92153da627c18a9f",
+    "revision": "c9d5477af3ce28645888",
     "url": "/sekouschedule/static/css/main.fcafecfd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sekouschedule/static/js/2.b6c76786.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "140a92153da627c18a9f",
-    "url": "/sekouschedule/static/js/main.4ef5197a.chunk.js"
+    "revision": "c9d5477af3ce28645888",
+    "url": "/sekouschedule/static/js/main.bba0aacf.chunk.js"
   },
   {
     "revision": "edd8898b57e699906182",
