@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sekoucalendar/precache-manifest.07bb96276874c054f91db34ac2c5bdb5.js"
+  "/sekoucalendar/precache-manifest.8384a9a0dd673f23f8f008076568dc09.js"
 );
 
 self.addEventListener('message', (event) => {
