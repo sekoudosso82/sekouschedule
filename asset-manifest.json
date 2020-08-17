@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sekouschedule/static/css/main.fcafecfd.chunk.css",
+    "main.js": "/sekouschedule/static/js/main.4ef5197a.chunk.js",
+    "main.js.map": "/sekouschedule/static/js/main.4ef5197a.chunk.js.map",
+    "runtime-main.js": "/sekouschedule/static/js/runtime-main.d5a3c6d7.js",
+    "runtime-main.js.map": "/sekouschedule/static/js/runtime-main.d5a3c6d7.js.map",
+    "static/js/2.b6c76786.chunk.js": "/sekouschedule/static/js/2.b6c76786.chunk.js",
+    "static/js/2.b6c76786.chunk.js.map": "/sekouschedule/static/js/2.b6c76786.chunk.js.map",
+    "index.html": "/sekouschedule/index.html",
+    "precache-manifest.34d4c19d22b60b782dbbb4801d05155b.js": "/sekouschedule/precache-manifest.34d4c19d22b60b782dbbb4801d05155b.js",
+    "service-worker.js": "/sekouschedule/service-worker.js",
+    "static/css/main.fcafecfd.chunk.css.map": "/sekouschedule/static/css/main.fcafecfd.chunk.css.map",
+    "static/js/2.b6c76786.chunk.js.LICENSE.txt": "/sekouschedule/static/js/2.b6c76786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a3c6d7.js",
+    "static/js/2.b6c76786.chunk.js",
+    "static/css/main.fcafecfd.chunk.css",
+    "static/js/main.4ef5197a.chunk.js"
+  ]
+}
